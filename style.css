@@ -1,0 +1,256 @@
+.omo{
+    font-size: 3rem ;
+    position: absolute;
+    bottom: 40%;
+    right: 20%;
+    color: darkblue;
+    top: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Welcome{
+    text-decoration:none;
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    background-color: rgb(21, 163, 21);
+    color: black;
+    padding: 15px 25px;
+    border-radius: 25%;
+}
+
+#welcome:hover{
+    background-color: rgb(192, 40, 40);
+    color: white;
+    text-decoration: none;
+    border-radius: 20%;
+}
+
+.hoo{
+    background-image: url(./Images/back\ ground.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+
+ }
+
+ .hoos{
+    display: flex;
+    justify-content: space-between;
+ }
+
+#header{
+ text-align: center;
+ font-size: 2rem;
+ color: white;
+ margin-top: 50px;
+ }
+
+ #pic{
+    display: inline-block; 
+    margin-left: 7%;
+ }
+
+.hi{
+    display: flex;
+    background-color: cyan;
+}
+
+#got{
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 4px;
+    width: 70%;
+   }
+   
+.pp{
+    color: blue;
+   font-size: medium;
+   font-style: oblique;
+    font-weight: bolder;
+    align-self: center;
+}
+
+.labs {
+    background-image: url(./a\ better\ lab.png) ;
+    background-size: 70px;
+    color: blue;
+}
+
+#own{
+    margin-left: 45%;
+    width: 40%;
+    border-radius: 25%;
+    position: relative;
+   }
+   .facilities{
+    display: flex;
+
+   }
+   .jiss{
+    margin: 2px 5px;
+   }
+   .fid{
+    text-align: center;
+    font-size: 1.5rem;
+   }
+
+   .cap{
+    padding-left: 61px;
+   }
+
+   .capp{
+    padding-left: 120px;
+   }
+
+   .omop{
+    position: absolute;
+    margin-left: 50%;
+    border: 7px solid white;
+    
+   }
+   #uyo{
+    position: absolute;
+    border: 7px solid white;
+    }
+    
+  #koko{
+    border: 2px solid red;
+    margin-left: 50px;
+    width: 50%;
+ }
+   #pako{
+    border: 2px solid red ;
+    margin-left:5px ;
+    width: 50%;
+ } 
+ 
+#pper{
+   
+    border: 4px skyblue ;
+}
+.poo{
+    text-decoration: none;
+    padding: 15px 25px;
+    background-color: white;
+    color: black;
+    border-radius: 40%;
+    position: absolute;
+    left: 89%;
+
+}
+.poo:hover{
+    cursor: pointer;
+    border-radius: 15%;
+    color: blue;
+}
+.too{
+    background-image: url(./Images/register\ pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.laa{
+    text-decoration: none;
+    padding: 15px 25px;
+    background-color: white;
+    color: rgb(5, 5, 57);
+    border-radius: 30%;
+    cursor: pointer;
+    margin: 5px 10px;
+}
+.laa:hover{
+    border-radius: 25%;
+    cursor: pointer;
+    color: darkblue;
+    background-color: green;
+}
+.ugh{
+    text-decoration: none;
+    padding: 15px 25px;
+    background-color: rgb(5, 5, 57);
+    color: white;
+    border-radius: 30%;
+    margin: 5px 10px;
+    margin-top: 3rem;
+
+}
+.prr{
+    color: white;
+}
+.wet{
+    text-decoration: none ;
+    padding: 10px 20px;
+    background-color: green;
+    color: black;
+    border-radius: 25%;
+}
+.wet:hover{
+    background-color: red;
+    color: black;
+    border-radius: 25%;
+}
+.pps{
+    color: white;
+    display: flex;
+}
+.pp{
+    display: flex ;
+}
+.faa{
+    display: flex;
+}
+#rw{
+    font-size: 1 rem;
+    display: flex;
+}
+#okay{
+    font-size: 1 rem;
+    display: flex;
+}
+.edo{
+    display: flex;
+   
+}
+#ty{
+    border: 2px solid white;
+    width: 50%;
+    height: 10%;
+    
+
+}
+#js{
+    border: 2px solid white;
+    width: 50%;
+    height: 2%;
+
+}
+#ts{
+    border: 2px solid white;
+    width: 50%;
+    height: 2%;
+    size: initial;
+    
+}
+#to{
+    border: 2px solid white;
+    width: 50%;
+    height: 2%;
+    size: initial;
+
+}
+#ll{
+    border: 2px solid white;
+    width: 50%;
+    height: 2%;
+}
+    #ff{
+        border: 2px solid white;
+        width: 50%;
+        height: 2%;
+  }
+  .kid{
+    margin-top: 2rem;
+
+  }
